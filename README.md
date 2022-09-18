@@ -5,7 +5,7 @@
 - 📫 Contate-me no email: rafaela.keller.rk@gmail.com
 - 😄 Pronomes: ela/dela
 
-<div align="left" style="display:block">
+<div align="left" style="display:block;">
   <a href="https://github.com/rafakeller">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafakeller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafakeller&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px" src="https://cdn.discordapp.com/attachments/720025130579001354/1020831521956962486/download20220906195520.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/720025130579001354/1020831521956962486/download20220906195520.png">
 </div>
 
 
