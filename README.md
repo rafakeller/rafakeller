@@ -11,12 +11,12 @@ Olá! Eu sou a Rafaela Keller
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafakeller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafakeller&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<br>
+<br/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+  <img src="https://cdn.discordapp.com/attachments/720025130579001354/1020834002027958332/Design_sem_nome.gif">
 </div>
 
  ##
