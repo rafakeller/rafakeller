@@ -1,7 +1,7 @@
 ## Oiii, eu sou a Rafaela Keller, estudante de Ciências da Computação e entusiasta de programação!
 
 - 🔭 Estudando JavaScript na Alura
-- 👯 Procurando Estágio em Desenvolvimento Front-end
+- 👯 Estágiando em TI 
 - 📫 Contate-me no email: rafaela.keller.rk@gmail.com
 - 😄 Pronomes: ela/dela
 
