@@ -3,7 +3,7 @@
 - 🔭 Estudando JavaScript na Alura
 - 👯 Estágiando em TI 
 - 📫 Contate-me no email: rafaela.keller.rk@gmail.com
-- 😄 Pronomes: ela/dela
+
 
 <div align="center" >
   <a href="https://github.com/rafakeller">
